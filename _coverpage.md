@@ -1,29 +1,22 @@
 <!--
  * @Author: ProtoDrive000
  * @Date: 2021-02-17 11:42:10
- * @LastEditTime: 2021-02-17 12:39:02
+ * @LastEditTime: 2021-02-17 13:03:19
  * @Description: 
  * @FilePath: \docs\_coverpage.md
  * @Copyright © : 2021年 赛博智能车实验室. All rights reserved. 
 -->
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+<img width="160px" style="border-radius: 50%" bor src="style/logo.jpg">
 
-# docsify <small>3.5</small>
+# **ProtoDrive's WiKi**
 
-> 一个神奇的文档网站生成器。
+- 基于 ```docsify```的个人博客
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+[![stars](https://badgen.net/github/stars/YuTaoV5/docsify-demo?color=4ab8a1)](https://github.com/YuTaoV5/docsify-demo)
+[![forks](https://badgen.net/github/forks/YuTaoV5/docsify-demo?color=4ab8a1)](https://github.com/YuTaoV5/docsify-demo)
+![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
-<!-- 背景图片 -->
-
-![](_media/bg.png)
-
-<!-- 背景色 -->
-
-![color](#f0f0f0)
+[GitHub](https://github.com/YuTaoV5/docsify-demo)
+[开始阅读](?id=中文文档)
